@@ -1,8 +1,3 @@
-## README.md - Complete Ready to Copy
-
-Copy this exactly as written and paste into your README.md file.
-
-```markdown
 # YouTube Trending Content Clustering & Viral Pattern Discovery
 
 ## Project Overview
