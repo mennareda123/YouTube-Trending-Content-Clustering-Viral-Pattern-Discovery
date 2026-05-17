@@ -65,8 +65,6 @@ YouTube-Trending-Clustering/
 │
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-│
 ├── data/
 │   ├── raw/                 # Original CSV and JSON files
 │   └── processed/           # Cleaned data, X_scaled.npy, latent_features.npy
@@ -96,8 +94,8 @@ YouTube-Trending-Clustering/
 │   ├── anomalies_analysis.csv
 │   └── model_metrics.csv
 │
-├── dashboard/
-│   └── streamlit_app.py
+├── streamlit/
+│   └── app1.py
 │
 └── reports/
     └── project_report.pdf
